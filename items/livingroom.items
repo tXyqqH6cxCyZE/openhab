@@ -3,7 +3,7 @@ Group      LivingRoomGrafT                "Группа графики Гост�
 Group      LivingRoomGrafH                "Группа графики Гостиная"                   <line>                (LivingRoom)
 //Group:Switch:OR(ON,OFF)    LR_Heaters                     "LivingRoom_Heaters[%d]"
 
-
+//aaaaa///
 /////////********************************************************************////////
 Contact    LivingRoom_Window1             "Гостиная окно1 [MAP(window.map):%s]"       <window>              (LivingRoom)                                   {channel="mqtt:topic:livingroom:Window1"}
 
